@@ -5,7 +5,7 @@ Basic 2D sprite base space shooter game.
 The basics where followed and adapted from the tutorial to get back into the basics of C# and unity.
 Game has single and 2 player.
 Game has infinitely spawning enemies that move down the screen and randomly shoot.
-Objective it to collect powerups (Shield, Tripple Shot or Speed Boost) and survive as long as possible.
+Objective it to collect powerups (Shield, Triple Shot or Speed Boost) and survive as long as possible.
 
 ![MainMenu](https://i.imgur.com/eMVqhQ1.png)
 ![InGame](https://i.imgur.com/mbiucFS.png)
